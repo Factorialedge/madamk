@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madamk/static/css/main.629a5518.css",
+    "main.js": "/madamk/static/js/main.dbac9135.js",
+    "static/js/787.0c533117.chunk.js": "/madamk/static/js/787.0c533117.chunk.js",
+    "index.html": "/madamk/index.html",
+    "main.629a5518.css.map": "/madamk/static/css/main.629a5518.css.map",
+    "main.dbac9135.js.map": "/madamk/static/js/main.dbac9135.js.map",
+    "787.0c533117.chunk.js.map": "/madamk/static/js/787.0c533117.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629a5518.css",
+    "static/js/main.dbac9135.js"
+  ]
+}
